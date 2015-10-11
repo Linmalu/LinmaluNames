@@ -1,8 +1,8 @@
 # LinmaluNames
 File and directory name change.
 
- - 개발자 : Linmalu(린마루)
- - 블로그 : http://blog.linmalu.com/
+ - author : Linmalu(린마루)
+ - HomePage : http://blog.linmalu.com/
 
 ###소개
 - 파일 및 폴더들의 이름을 변경하는 프로그램입니다.
